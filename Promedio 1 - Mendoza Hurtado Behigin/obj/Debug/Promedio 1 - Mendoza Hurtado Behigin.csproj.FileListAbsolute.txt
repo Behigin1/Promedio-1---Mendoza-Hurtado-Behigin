@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\bin\Debug\Promedio 1 - Mendoza Hurtado Behigin.exe.config
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\bin\Debug\Promedio 1 - Mendoza Hurtado Behigin.exe
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\bin\Debug\Promedio 1 - Mendoza Hurtado Behigin.pdb
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\obj\Debug\Promedio 1 - Mendoza Hurtado Behigin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\obj\Debug\Promedio 1 - Mendoza Hurtado Behigin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\obj\Debug\Promedio 1 - Mendoza Hurtado Behigin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\obj\Debug\Promedio 1 - Mendoza Hurtado Behigin.exe
+C:\Users\user\source\repos\Promedio 1 - Mendoza Hurtado Behigin\Promedio 1 - Mendoza Hurtado Behigin\obj\Debug\Promedio 1 - Mendoza Hurtado Behigin.pdb
